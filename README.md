@@ -1,4 +1,5 @@
 # IMU1
+```
 ///////////////////////////IMU/////////////////////////
 #include <Wire.h>
 #include <LSM303.h>
@@ -132,3 +133,4 @@ void loop(){
 
   imu_rotation();
 }
+```
